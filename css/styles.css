@@ -1,7 +1,12 @@
 .sidebar {
   float: left;
-  width: 150px;
+  width: 100%;
   margin: 15px;
   border-right: 2px solid #9bd6e8;
   background-color: #eff0f2;
+}
+.right-sidebar {
+  float: right;
+  width: 30%;
+  color: #6a88b7;
 }
